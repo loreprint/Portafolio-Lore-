@@ -5,5 +5,4 @@ nav:
   - 01-primera-entrada.md
   - plantilla.md
   - Notebooks:
-      - "Práctico 3": "Practico_3 (1).ipynb"
       - "Práctico 4": "Practico_4.ipynb"
