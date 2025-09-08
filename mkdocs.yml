@@ -11,6 +11,9 @@ plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - glightbox
+  - mkdocs-jupyter:
+      execute: false             # NO re-ejecuta celdas; usa salidas guardadas
+
 markdown_extensions:
   - admonition
   - attr_list
