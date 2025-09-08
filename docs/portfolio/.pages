@@ -1,3 +1,9 @@
-title: Portfolio
+title: Portafolio
 collapse: false
-order: asc
+nav:
+  - index.md
+  - 01-primera-entrada.md
+  - plantilla.md
+  - Notebooks:
+      - "Práctico 3": "Practico_3 (1).ipynb"
+      - "Práctico 4": "Practico_4.ipynb"
