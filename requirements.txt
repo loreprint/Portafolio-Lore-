@@ -6,4 +6,3 @@ mkdocs-glightbox>=0.3
 mkdocs-jupyter
 nbformat
 ipywidgets
-ydata-profiling==4.8.3   # funciona con Python <3.13
